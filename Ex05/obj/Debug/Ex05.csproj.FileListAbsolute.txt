@@ -1,0 +1,9 @@
+C:\Users\khare\OneDrive\Desktop\UpdatedCv\B23 Ex05 SharonOlshanetsky 318845740 DenisKharenko 324464536\Ex05\bin\Debug\B23 Ex05 SharonOlshanetsky 318845740.exe.config
+C:\Users\khare\OneDrive\Desktop\UpdatedCv\B23 Ex05 SharonOlshanetsky 318845740 DenisKharenko 324464536\Ex05\bin\Debug\B23 Ex05 SharonOlshanetsky 318845740.exe
+C:\Users\khare\OneDrive\Desktop\UpdatedCv\B23 Ex05 SharonOlshanetsky 318845740 DenisKharenko 324464536\Ex05\bin\Debug\B23 Ex05 SharonOlshanetsky 318845740.pdb
+C:\Users\khare\OneDrive\Desktop\UpdatedCv\B23 Ex05 SharonOlshanetsky 318845740 DenisKharenko 324464536\Ex05\obj\Debug\Ex05.csproj.AssemblyReference.cache
+C:\Users\khare\OneDrive\Desktop\UpdatedCv\B23 Ex05 SharonOlshanetsky 318845740 DenisKharenko 324464536\Ex05\obj\Debug\B23_Ex05_SharonOlshanetsky_318845740.Properties.Resources.resources
+C:\Users\khare\OneDrive\Desktop\UpdatedCv\B23 Ex05 SharonOlshanetsky 318845740 DenisKharenko 324464536\Ex05\obj\Debug\Ex05.csproj.GenerateResource.cache
+C:\Users\khare\OneDrive\Desktop\UpdatedCv\B23 Ex05 SharonOlshanetsky 318845740 DenisKharenko 324464536\Ex05\obj\Debug\Ex05.csproj.CoreCompileInputs.cache
+C:\Users\khare\OneDrive\Desktop\UpdatedCv\B23 Ex05 SharonOlshanetsky 318845740 DenisKharenko 324464536\Ex05\obj\Debug\B23 Ex05 SharonOlshanetsky 318845740.exe
+C:\Users\khare\OneDrive\Desktop\UpdatedCv\B23 Ex05 SharonOlshanetsky 318845740 DenisKharenko 324464536\Ex05\obj\Debug\B23 Ex05 SharonOlshanetsky 318845740.pdb
